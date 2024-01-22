@@ -1,0 +1,1 @@
+export { runtime, storage } from 'webextension-polyfill'
